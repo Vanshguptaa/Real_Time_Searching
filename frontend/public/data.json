@@ -1,0 +1,7 @@
+[
+    { "id": 1, "title": "What is React?", "type": "MCQ" },
+    { "id": 2, "title": "Explain useState hook.", "type": "Short Answer" },
+    { "id": 3, "title": "What are React props?", "type": "MCQ" },
+    { "id": 4, "title": "How does useEffect work?", "type": "Short Answer" }
+  ]
+  
